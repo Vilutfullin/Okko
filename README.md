@@ -13,24 +13,26 @@
 
 <div align="center">
 
-<img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%" usemap="#prototype-map">
-
-
+## ▶ С чего начать
 
 <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/button-desktop.svg" alt="Открыть desktop-прототип" width="46%"></a> <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/button-mobile.svg" alt="Открыть mobile-прототип" width="46%"></a>
 
-</div>
+<br><br>
 
-<div align="center">
-
-
-
-</sub><br><sub><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html">Desktop</a> · <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html">Mobile</a></sub>
+<img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%" usemap="#prototype-map">
 
 <map name="prototype-map">
   <area shape="rect" coords="470,170,1120,579" href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html" alt="Открыть desktop-прототип">
   <area shape="rect" coords="1120,300,1310,665" href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html" alt="Открыть mobile-прототип">
 </map>
+
+<sub>Нажмите кнопку или устройство на обложке, чтобы открыть прототип.</sub>
+
+### 🎬 Промо-ролик
+
+[Смотреть промо-видео «Киносовет»](kinoassistant-promo.mp4)
+
+<sub>15 секунд: проблема выбора → вопросы → персональные рекомендации → объяснение.</sub>
 
 </div>
 
