@@ -13,6 +13,14 @@
 
 <div align="center">
 
+## ▶ С чего начать
+
+<table><tr><td align="center" width="50%"><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><strong>ОТКРЫТЬ DESKTOP-ПРОТОТИП →</strong></a><br><sub>Полный сценарий: от настроения до оценки фильма</sub></td><td align="center" width="50%"><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><strong>ОТКРЫТЬ MOBILE-ПРОТОТИП →</strong></a><br><sub>Мобильный сценарий: подборка, сохранение и профиль</sub></td></tr></table>
+
+</div>
+
+<div align="center">
+
 <img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%" usemap="#prototype-map">
 
 <map name="prototype-map">
