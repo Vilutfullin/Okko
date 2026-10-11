@@ -13,10 +13,6 @@
 
 <div align="center">
 
-## ▶ С чего начать
-
-<a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/button-desktop.svg" alt="Открыть desktop-прототип" width="46%"></a> <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/button-mobile.svg" alt="Открыть mobile-прототип" width="46%"></a>
-
 <br><br>
 
 <img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%" usemap="#prototype-map">
@@ -36,6 +32,7 @@
 
 </div>
 
+<a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/button-desktop.svg" alt="Desktop" width="46%"></a> <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/button-mobile.svg" alt="Mobile" width="46%"></a>
 ---
 
 ## Идея
