@@ -13,13 +13,9 @@
 
 <div align="center">
 
-<a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/desktop-preview.svg" alt="Открыть desktop-прототип Киносовета" width="90%"></a>
+<a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%"></a>
 
-<br><br>
-
-<a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/mobile-preview.svg" alt="Открыть mobile-прототип Киносовета" width="62%"></a>
-
-<p><sub>Нажмите на изображение, чтобы открыть прототип</sub></p>
+<sub>Нажмите на ноутбук, чтобы открыть desktop-версию, или на телефон — чтобы открыть mobile-версию.</sub>
 
 </div>
 
