@@ -30,7 +30,7 @@
 
 ### 🎬 Промо-ролик
 
-[Смотреть промо-видео «Киносовет»](kinoassistant-promo.mp4)
+[▶ Смотреть промо-видео в браузере](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/promo.html) · [Скачать MP4](kinoassistant-promo.mp4)
 
 <sub>15 секунд: проблема выбора → вопросы → персональные рекомендации → объяснение.</sub>
 
