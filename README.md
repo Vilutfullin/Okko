@@ -8,9 +8,12 @@
 
 ## Прототипы
 
-- [Открыть полноэкранный прототип](okko_ai_prototype.html)
-- [Открыть мобильный прототип](okko_mobile_prototype.html)
-- [Открыть страницу демонстрации](docs/index.html)
+- [Открыть визуальный предпросмотр (GitHub Pages)](https://vilutfullin.github.io/Okko/)
+- [Открыть полноэкранный прототип через HTML Preview](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html)
+- [Открыть мобильный прототип через HTML Preview](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html)
+- [Исходный код полноэкранной версии](okko_ai_prototype.html) · [исходный код мобильной версии](okko_mobile_prototype.html)
+
+Если GitHub Pages ещё не активирован, используйте ссылки HTML Preview выше. Обычные ссылки на `.html` внутри GitHub открывают исходный код — это ограничение GitHub.
 
 В прототипе можно пройти подборку, получить три рекомендации, открыть карточку фильма, сохранить его и оставить оценку. Обратная связь влияет на следующую подборку в рамках текущего сеанса.
 
