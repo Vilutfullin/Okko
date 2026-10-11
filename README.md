@@ -15,7 +15,7 @@
 
 ## ▶ С чего начать
 
-<table><tr><td align="center" width="50%"><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><strong>ОТКРЫТЬ DESKTOP-ПРОТОТИП →</strong></a><br><sub>Полный сценарий: от настроения до оценки фильма</sub></td><td align="center" width="50%"><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><strong>ОТКРЫТЬ MOBILE-ПРОТОТИП →</strong></a><br><sub>Мобильный сценарий: подборка, сохранение и профиль</sub></td></tr></table>
+<a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/button-desktop.svg" alt="Открыть desktop-прототип" width="46%"></a> <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/button-mobile.svg" alt="Открыть mobile-прототип" width="46%"></a>
 
 </div>
 
