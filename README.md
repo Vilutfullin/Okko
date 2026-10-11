@@ -13,7 +13,9 @@
 
 <div align="center">
 
-## ▶ С чего начать
+<img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%" usemap="#prototype-map">
+
+
 
 <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/button-desktop.svg" alt="Открыть desktop-прототип" width="46%"></a> <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/button-mobile.svg" alt="Открыть mobile-прототип" width="46%"></a>
 
@@ -21,14 +23,14 @@
 
 <div align="center">
 
-<img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%" usemap="#prototype-map">
+
+
+</sub><br><sub><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html">Desktop</a> · <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html">Mobile</a></sub>
 
 <map name="prototype-map">
   <area shape="rect" coords="470,170,1120,579" href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html" alt="Открыть desktop-прототип">
   <area shape="rect" coords="1120,300,1310,665" href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html" alt="Открыть mobile-прототип">
 </map>
-
-<sub>Нажмите на ноутбук, чтобы открыть desktop-версию, или на телефон — чтобы открыть mobile-версию.</sub><br><sub><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html">Desktop</a> · <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html">Mobile</a></sub>
 
 </div>
 
