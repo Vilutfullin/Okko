@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%"></a>
+<img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%">
 
 <sub>Нажмите на ноутбук, чтобы открыть desktop-версию, или на телефон — чтобы открыть mobile-версию.</sub>
 
