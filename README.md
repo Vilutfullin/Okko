@@ -13,14 +13,9 @@
 
 <div align="center">
 
-<br><br>
+<img src="assets/cover-top.svg" alt="Киносовет — AI-киноассистент Okko" width="100%"><br><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/cover-web.svg" alt="Открыть веб-прототип" width="50%"></a><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/cover-mobile.svg" alt="Открыть мобильный прототип" width="50%"></a>
 
-<img src="assets/cover.svg" alt="Киносовет: ноутбук открывает desktop-прототип, телефон — mobile-прототип" width="100%" usemap="#prototype-map">
-
-<map name="prototype-map">
-  <area shape="rect" coords="470,170,1120,579" href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html" alt="Открыть desktop-прототип">
-  <area shape="rect" coords="1120,300,1310,665" href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html" alt="Открыть mobile-прототип">
-</map>
+<sub>Выберите кнопку на обложке. Веб — полный сценарий; мобильная версия — подборка, сохранение и профиль.</sub>
 
 ### 🎬 Промо-ролик
 
@@ -30,7 +25,6 @@
 
 </div>
 
-<a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/button-desktop.svg" alt="Desktop" width="46%"></a> <a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/button-mobile.svg" alt="Mobile" width="46%"></a>
 ---
 
 ## Идея
