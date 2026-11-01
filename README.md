@@ -19,6 +19,12 @@
 
 <sub>Выберите кнопку на обложке. Веб — полный сценарий; мобильная версия — подборка, сохранение и профиль.</sub>
 
+### Демо мобильного приложения
+
+[▶ Смотреть скринкаст в браузере](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/mobile-demo.html) · [Скачать MP4](mobile-demo.mp4)
+
+Реальные переходы в прототипе: настроение → предпочтения → три фильма → объяснение выбора → итоговая подборка. Без озвучки.
+
 ### 🎬 Промо-ролик
 
 [▶ Смотреть промо-видео в браузере](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/promo.html)
