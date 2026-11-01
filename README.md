@@ -11,27 +11,20 @@
 
 > Конкурсный концепт рекомендательной функции для Okko. Кликабельные веб- и мобильный прототипы с локальной логикой подбора. Без подключения к модели и реальному каталогу Okko.
 
-<br>
+## Посмотрите идею в действии
 
-<div align="center">
+[![Киносовет: меньше выбирать, больше смотреть. Нажмите, чтобы открыть страницу с видео.](assets/demo-preview.png)](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/index.html)
 
-<img src="assets/cover-top.svg" alt="Киносовет — AI-киноассистент Okko" width="100%"><br><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html"><img src="assets/cover-web.svg" alt="Открыть веб-прототип" width="50%"></a><a href="https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html"><img src="assets/cover-mobile.svg" alt="Открыть мобильный прототип" width="50%"></a>
+**Начните с 34-секундного демо:** настроение → предпочтения → три фильма → объяснение выбора.
 
-<sub>Выберите кнопку на обложке. Веб — полный сценарий; мобильная версия — подборка, сохранение и профиль.</sub>
+[![Попробовать веб-прототип](assets/button-desktop.svg)](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_ai_prototype.html)
+[![Попробовать мобильный прототип](assets/button-mobile.svg)](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/okko_mobile_prototype.html)
 
-### Демо мобильного приложения
+<details><summary>Другие материалы</summary>
 
-[▶ Смотреть скринкаст в браузере](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/mobile-demo.html) · [Скачать MP4](mobile-demo.mp4)
+[Промо-ролик, 15 секунд](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/promo.html) · [Скачать скринкаст MP4](mobile-demo.mp4)
 
-Реальные переходы в прототипе: настроение → предпочтения → три фильма → объяснение выбора → итоговая подборка. Без озвучки.
-
-### 🎬 Промо-ролик
-
-[▶ Смотреть промо-видео в браузере](https://htmlpreview.github.io/?https://github.com/Vilutfullin/Okko/blob/main/promo.html)
-
-<sub>15 секунд: проблема выбора → вопросы → персональные рекомендации → объяснение.</sub>
-
-</div>
+</details>
 
 ---
 
